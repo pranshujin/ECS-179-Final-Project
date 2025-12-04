@@ -1,0 +1,2 @@
+Node version: v25.2.1
+npm version: 11.6.2
