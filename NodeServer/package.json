@@ -1,0 +1,11 @@
+{
+    "name": "ecs179-node-server",
+    "version": "1.0.0",
+    "description": "Node.js relay server for Godot ↔ CiF communication",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {}
+  }
+  
