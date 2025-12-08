@@ -31,10 +31,10 @@ If every cell eventually collapses to exactly one valid tile, then the algorithm
 
 ---
 
-## **Why WFC Is Useful**
+## **Why the WFC Algorithm Is Useful**
 * It creates an output that looks structured even though it’s generated randomly.
 * It only needs a small sample image to learn patterns.
 * It works well for tile based games, pixel art, and level generation.
 
-For this project, I am using the simplified version of the tiled model where I manually define tile adjacency rules rather than generating them from an image. The algorithm will generate a 10 x 10 map in Godot and allow the user to create new maps through a UI button.
+For this project, I am using the second version of the WFC algorithm where I manually define tile adjacency rules rather than generating them from an image. The algorithm will generate a 10 x 10 map in Godot and allow the user to create new maps through a UI button.
 
