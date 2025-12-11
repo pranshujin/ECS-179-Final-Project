@@ -1,2 +1,0 @@
-// *** Ensemble vundefined ***
-ensemble = (function(){
